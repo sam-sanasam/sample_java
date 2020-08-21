@@ -1,7 +1,7 @@
 <html>
 <head>
 <title>
-Hello Earth
+Hello Java2
 </title>
 </head>
 <body>
